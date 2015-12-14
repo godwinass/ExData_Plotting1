@@ -1,0 +1,3 @@
+png(plot1.png)
+
+dev.off()
